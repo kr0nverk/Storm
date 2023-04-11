@@ -1,0 +1,32 @@
+2023-04-11 10:51:08.822 STDERR Thread-0 [INFO] Unrecognized VM option 'PrintGCDateStamps'
+2023-04-11 10:51:08.830 STDERR Thread-0 [INFO] Error: Could not create the Java Virtual Machine.
+2023-04-11 10:51:08.830 STDERR Thread-0 [INFO] Error: A fatal exception has occurred. Program will exit.
+2023-04-11 10:51:08.823 STDERR Thread-1 [INFO] [0.001s][warning][gc] -Xloggc is deprecated. Will use -Xlog:gc:artifacts/gc.log instead.
+2023-04-11 10:53:17.643 STDERR Thread-0 [INFO] Unrecognized VM option 'PrintGCDateStamps'
+2023-04-11 10:53:17.644 STDERR Thread-1 [INFO] [0.001s][warning][gc] -Xloggc is deprecated. Will use -Xlog:gc:artifacts/gc.log instead.
+2023-04-11 10:53:17.651 STDERR Thread-0 [INFO] Error: Could not create the Java Virtual Machine.
+2023-04-11 10:53:17.655 STDERR Thread-0 [INFO] Error: A fatal exception has occurred. Program will exit.
+2023-04-11 10:55:18.503 STDERR Thread-1 [INFO] [0.001s][warning][gc] -Xloggc is deprecated. Will use -Xlog:gc:artifacts/gc.log instead.
+2023-04-11 10:55:18.503 STDERR Thread-0 [INFO] Unrecognized VM option 'PrintGCDateStamps'
+2023-04-11 10:55:18.522 STDERR Thread-0 [INFO] Error: Could not create the Java Virtual Machine.
+2023-04-11 10:55:18.523 STDERR Thread-0 [INFO] Error: A fatal exception has occurred. Program will exit.
+2023-04-11 10:55:29.045 STDERR Thread-0 [INFO] Unrecognized VM option 'PrintGCDateStamps'
+2023-04-11 10:55:29.044 STDERR Thread-1 [INFO] [0.001s][warning][gc] -Xloggc is deprecated. Will use -Xlog:gc:artifacts/gc.log instead.
+2023-04-11 10:55:29.057 STDERR Thread-0 [INFO] Error: Could not create the Java Virtual Machine.
+2023-04-11 10:55:29.058 STDERR Thread-0 [INFO] Error: A fatal exception has occurred. Program will exit.
+2023-04-11 10:57:39.055 STDERR Thread-1 [INFO] [0.002s][warning][gc] -Xloggc is deprecated. Will use -Xlog:gc:artifacts/gc.log instead.
+2023-04-11 10:57:39.054 STDERR Thread-0 [INFO] Unrecognized VM option 'PrintGCDateStamps'
+2023-04-11 10:57:39.067 STDERR Thread-0 [INFO] Error: Could not create the Java Virtual Machine.
+2023-04-11 10:57:39.067 STDERR Thread-0 [INFO] Error: A fatal exception has occurred. Program will exit.
+2023-04-11 10:59:39.626 STDERR Thread-0 [INFO] Unrecognized VM option 'PrintGCDateStamps'
+2023-04-11 10:59:39.632 STDERR Thread-0 [INFO] Error: Could not create the Java Virtual Machine.
+2023-04-11 10:59:39.632 STDERR Thread-0 [INFO] Error: A fatal exception has occurred. Program will exit.
+2023-04-11 10:59:39.624 STDERR Thread-1 [INFO] [0.000s][warning][gc] -Xloggc is deprecated. Will use -Xlog:gc:artifacts/gc.log instead.
+2023-04-11 10:59:50.789 STDERR Thread-1 [INFO] [0.002s][warning][gc] -Xloggc is deprecated. Will use -Xlog:gc:artifacts/gc.log instead.
+2023-04-11 10:59:50.789 STDERR Thread-0 [INFO] Unrecognized VM option 'PrintGCDateStamps'
+2023-04-11 10:59:50.801 STDERR Thread-0 [INFO] Error: Could not create the Java Virtual Machine.
+2023-04-11 10:59:50.802 STDERR Thread-0 [INFO] Error: A fatal exception has occurred. Program will exit.
+2023-04-11 11:02:00.820 STDERR Thread-1 [INFO] [0.001s][warning][gc] -Xloggc is deprecated. Will use -Xlog:gc:artifacts/gc.log instead.
+2023-04-11 11:02:00.820 STDERR Thread-0 [INFO] Unrecognized VM option 'PrintGCDateStamps'
+2023-04-11 11:02:00.831 STDERR Thread-0 [INFO] Error: Could not create the Java Virtual Machine.
+2023-04-11 11:02:00.831 STDERR Thread-0 [INFO] Error: A fatal exception has occurred. Program will exit.
